@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "37205371539",
+    "firebase_url": "https://ese543-57cba.firebaseio.com",
+    "project_id": "ese543-57cba",
+    "storage_bucket": "ese543-57cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37205371539:android:a6df2ae827a4aca4",
+        "android_client_info": {
+          "package_name": "com.example.zhaoqi.libraryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37205371539-f6cckkraa0grmtmcvcu2me8r1856730k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIyzCvYJMpY96jSP1WmCbanXISw_osZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
